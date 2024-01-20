@@ -1,2 +1,2 @@
 # twl-urls
-Converts resource URLs to Wikipedia Library URLs, and vice versa
+Converts resource URLs to Wikipedia Library URLs, and vice versa.
